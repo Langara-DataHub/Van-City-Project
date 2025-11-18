@@ -172,3 +172,82 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+.DS_Store
+data/.DS_Store
+data/2021Census.csv
+data/event_list.csv
+data/Export/dim_date.csv
+data/Export/dim_events.csv
+data/Export/dim_park_attributes.csv
+data/Export/dim_weather.csv
+data/Export/fact_live_times.csv
+data/Export/fact_popular_times.csv
+data/final_merged_df.csv
+data/merge_usual_id.csv
+data/merge_usual_id2.csv
+data/Metadata.xlsx
+data/parkAmenityTable.xlsx
+data/parks_data_extract_as_of_05152025.zip
+data/parksStatic.csv
+data/usual_merged_cleaned.csv
+data/wetransfer_share-with-langara_2025-03-31_2039(1).zip
+docs/20250527-Script.docx
+docs/Capstone Report.pdf
+docs/City_Vancouver_Data_Description.odt
+docs/Client Meeting - v1.pptx
+docs/Client Meeting - v2.pptx
+docs/Client Meeting - v3.pptx
+docs/Dataset Overview - Parks.pptx
+docs/Fabric Workflow.webp
+docs/Park Board - Fabric Workflow.docx
+docs/Park Board Mgt.pbix
+docs/Parking_Search_Optimization_in_Urban_Area.pdf
+docs/Parkview.svg
+docs/Potential Use Cases.jpg
+docs/Project_Outline.docx
+docs/SeeInsights_VisitationCounters_WithPrice_ALLCOUNTERS.pdf
+docs/vancity.png
+docs/VanCity_ERDiagram.png
+migration/.DS_Store
+migration/Data Pipelines/Data Ingestion.zip
+migration/Data Pipelines/Predict Park Occupancy.zip
+migration/Data Pipelines/Train Forecasting Model.zip
+migration/Data Pipelines/User Estimation.zip
+migration/Notebooks/Ingestion/ingest_01_load_raw.ipynb
+migration/Notebooks/Ingestion/ingest_02_load_stg_1.ipynb
+migration/Notebooks/Ingestion/ingest_03_load_stg_2.ipynb
+migration/Notebooks/Ingestion/ingest_04_load_dim.ipynb
+migration/Notebooks/Ingestion/ingest_05_load_fact_observational_study.ipynb
+migration/Notebooks/Ingestion/ingest_06_load_fact_live_times.ipynb
+migration/Notebooks/Ingestion/ingest_07_load_fact_popular_times.ipynb
+migration/Notebooks/Prediction/predict_01_timeseries_forecast_1wk.ipynb
+migration/Notebooks/Prediction/predict_02_user_estimates.ipynb
+migration/Notebooks/Training/train_01_impute_fact_live_times.ipynb
+migration/Notebooks/Training/train_02_train_timeseries_model.ipynb
+migration/Notebooks/Training/train_03_train_user_estimates_model.ipynb
+migration/Park Analytics Dashboard.pbit
+migration/Park Analytics Dashboard.pbix
+migration/ParkBoard_Lakehouse.Lakehouse.zip
+migration/ParkBoard_Migration_Plan.xlsx
+migration/Semantic Model/.DS_Store
+migration/Semantic Model/Measures/Average % Difference.txt
+migration/Semantic Model/Measures/Estimated Users ParkView.txt
+migration/Semantic Model/Measures/Event on Selected Date.txt
+migration/Semantic Model/Measures/Filtered Live Off Peak Usage.txt
+migration/Semantic Model/Measures/Filtered Live Peak Usage.txt
+migration/Semantic Model/Measures/Filtered Live Times Percent (AVG).txt
+migration/Semantic Model/Measures/Filtered Usual Off Peak Usage.txt
+migration/Semantic Model/Measures/Filtered Usual Peak Usage.txt
+migration/Semantic Model/Measures/Filtered Usual Times Percent (AVG).txt
+migration/Semantic Model/Measures/Live Off Peak Usage.txt
+migration/Semantic Model/Measures/Live Peak Usage.txt
+migration/Semantic Model/Measures/Live vs Popular Times % Diff.txt
+migration/Semantic Model/Measures/Parks With Events Today.txt
+migration/Semantic Model/Measures/Parks With Events.txt
+migration/Semantic Model/Measures/SelectedAmenities.txt
+migration/Semantic Model/Measures/Today Date.txt
+migration/Semantic Model/Measures/Usual Off Peak Usage.txt
+migration/Semantic Model/Measures/Usual Peak Usage.txt
+ts_analysis/data.zip
+ts_analysis/modern-time-series-forecasting-with-python.pdf
+ts_analysis/time_series_analysis.acsm
